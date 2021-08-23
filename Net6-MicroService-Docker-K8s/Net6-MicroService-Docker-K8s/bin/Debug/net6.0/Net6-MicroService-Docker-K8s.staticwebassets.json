@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pEo4YxliRNO+1VZINzsW3m93MOutrAvvDIVvXKUsXWk=",
+  "Source": "Net6-MicroService-Docker-K8s",
+  "BasePath": "_content/Net6-MicroService-Docker-K8s",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "RelatedManifests": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
