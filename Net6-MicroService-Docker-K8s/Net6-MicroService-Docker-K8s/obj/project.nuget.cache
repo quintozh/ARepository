@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uSwMSrm+TR8OHLxANjmr2B3RLbJ1hx0i/ldnrDfvcA55dEbRm6UpG5TAvUdq5kEws4/0wrgnUwfIyKHgfwfd4A==",
+  "dgSpecHash": "pbkr5EG/OTyE3kOKpa0cQOQ/LhWqeoWGSWKPk0UoLewoknUlyponPpshNUroTDBuahhXdA8NbNxHSiAvX9rFhg==",
   "success": true,
   "projectFilePath": "F:\\ARepository\\Net6-MicroService-Docker-K8s\\Net6-MicroService-Docker-K8s\\Net6-MicroService-Docker-K8s.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zheng\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Zheng\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Zheng\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\Zheng\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Zheng\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Zheng\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

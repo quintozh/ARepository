@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5fc0ec16-3284-45ee-9a2c-0248a8ea3bd1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Net6-MicroService-Docker-K8s")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
